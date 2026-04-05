@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ウェルテル / HALVES（Music Video）",
+  "base_track": "ウェルテル",
   "base_artist": "HALVES",
-  "createdAt": "2025-12-02T11:45:06.254790Z",
+  "createdAt": "2026-04-05T10:14:18.530670Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "HALVES",
       "has_synced": false,
       "path": "select/pl_01_ウェルテル_HALVES.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ウェルテル",
+      "artist": "HALVES",
+      "has_synced": false,
+      "path": "select/localdb_01_ウェルテル_HALVES.txt",
+      "repo_name": "D5qn-PRbg-g"
     }
   ]
 }
